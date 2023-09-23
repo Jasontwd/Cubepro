@@ -10,7 +10,7 @@ This has taken my 3D printing to another level, and means there is less waste an
 
 ## <b>History on this build</b>
 
-![image]([https://github.com/Jasontwd/Cubepro/assets/25860987/8b048c19-6fa5-4919-a493-ce1ede4839d4])
+![image](https://github.com/Jasontwd/Cubepro/blob/master/Images/Clipped_image_20230923_163300.png)
 
 
 These days there are lots of old 2nd hand printers out there in the market that sometimes need a new lease on life.
@@ -34,6 +34,7 @@ Cube Pro Duo Mosquito Liquid, water cooled high volume printer
 
 ![image](https://github.com/Jasontwd/Cubepro/assets/25860987/7f7647c8-4586-4db8-8166-2827825f5e42)
 
+![image](https://github.com/Jasontwd/Cubepro/blob/master/Images/20230923_162437.jpg?raw=true)
 
 Retrofitted electrics, Open Source main board with Raspberry Pi4 to complement the existing drive train on board the Cube Pro
 
