@@ -1,5 +1,6 @@
 
-Supercharged 3D Systems Cube Pro Trio, totally rebuilt into a high temperature production printer.
+# Supercharged 3D Systems Cube Pro Trio
+## Totally rebuilt into a high temperature production printer
 
 Having access to the high quality 3DXTech filaments meant that I could take an old Cube Pro Trio and turn it into a fast high-temperature production printer.  This means I can now use various types of filaments including water soluble supports. Including High Temp filaments up to 420deg C
 
@@ -7,7 +8,7 @@ This has taken my 3D printing to another level, and means there is less waste an
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<b>History on this build</b>
+## <b>History on this build</b>
 
 ![image](https://github.com/Jasontwd/Cubepro/assets/25860987/8b048c19-6fa5-4919-a493-ce1ede4839d4)
 
@@ -27,7 +28,7 @@ Proprietary software and filament cases (with electronic chip) meant you where l
 I found my printer on Trade Me in mid 2019, after a mate had also bought 2.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<b>Specifications of the new machine, after its rebuild</b>
+## <b>Specifications of the new machine, after its rebuild</b>
 
 Cube Pro Duo Mosquito Liquid, water cooled high volume printer
 
@@ -36,19 +37,19 @@ Cube Pro Duo Mosquito Liquid, water cooled high volume printer
 
 Retrofitted electrics, Open Source main board with Raspberry Pi4 to complement the existing drive train on board the Cube Pro
 
--Klipper firmware and front panel klipper screen
--Flyboard 64 main board
--Raspberry PI 4 klipper headless on board, with wifi
--Twin Liquid Mosquitos water cooled from Slice Engineering
--450deg rated heat blocks and heaters for PEKK etc.
--Obitor V2 twin extruders
--Heated 310mm square aluminum build plate 750w  230v AC bed ( 30sec heat up time to 120deg C)
--On board Rpi Camera wide angle for AI print detection
+- Klipper firmware and front panel klipper screen.
+- Flyboard 64 main board.
+- Raspberry PI 4 klipper headless on board, with wifi.
+- Twin Liquid Mosquitos water cooled from Slice Engineering.
+- 450deg rated heat blocks and heaters for PEKK etc.
+- Obitor V2 twin extruders
+- Heated 310mm square aluminum build plate 750w  230v AC bed ( 30sec heat up time to 120deg C)
+- On board Rpi Camera wide angle for AI print detection
 - High speed CPAP 12v part cooling fan
--2 filament bays internal for pre drying capacity, great for ABS and Nylon 910 
--Enclosure ventilation suction fan 40mm rear mounted to external vent for ABS and PEKK printing
--Flexible filaments and water soluble supports printed easy as
--12v 450w Power supply on board for all equipment
--5v PSU power supply on board for Rpi 4 (dedicated supply)
--Cube pro enclosure, insulated and isolated from electrics for heating enclosure internal for better fusion on prints.
--PEKK, PEEK and Carbon reinforced print ready
+- 2 filament bays internal for pre drying capacity, great for ABS and Nylon 910 
+- Enclosure ventilation suction fan 40mm rear mounted to external vent for ABS and PEKK printing
+- Flexible filaments and water soluble supports printed easy as
+- 12v 450w Power supply on board for all equipment
+- 5v PSU power supply on board for Rpi 4 (dedicated supply)
+- Cube pro enclosure, insulated and isolated from electrics for heating enclosure internal for better fusion on prints.
+- PEKK, PEEK and Carbon reinforced print ready
