@@ -1,6 +1,6 @@
 
 # Supercharged 3D Systems Cube Pro Trio
-## Totally rebuilt into a high temperature production printer
+## New Twin hotend rebuild into a high temperature production printer
 
 Having access to the high quality 3DXTech filaments meant that I could take an old Cube Pro Trio and turn it into a fast high-temperature production printer.  This means I can now use various types of filaments including water soluble supports. Including High Temp filaments up to 420deg C
 
