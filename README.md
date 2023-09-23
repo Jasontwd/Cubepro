@@ -50,7 +50,7 @@ Retrofitted electrics, Open Source main board with Raspberry Pi4 to complement t
 - 2 filament bays internal for pre drying capacity, great for ABS and Nylon 910 
 - Enclosure ventilation suction fan 40mm rear mounted to external vent for ABS and PEKK printing
 - Flexible filaments and water soluble supports printed easy as
-- 12v 450w Power supply on board for all equipment
+- 24v 650w Power supply on board for all equipment, the existing one thats on the right.
 - 5v PSU power supply on board for Rpi 4 (dedicated supply)
 - Cube pro enclosure, insulated and isolated from electrics for heating enclosure internal for better fusion on prints.
 - PEKK, PEEK and Carbon reinforced print ready
