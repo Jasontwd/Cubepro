@@ -10,7 +10,7 @@ This has taken my 3D printing to another level, and means there is less waste an
 
 ## <b>History on this build</b>
 
-![image](https://github.com/Jasontwd/Cubepro/assets/25860987/8b048c19-6fa5-4919-a493-ce1ede4839d4)
+![image]([https://github.com/Jasontwd/Cubepro/assets/25860987/8b048c19-6fa5-4919-a493-ce1ede4839d4])
 
 
 These days there are lots of old 2nd hand printers out there in the market that sometimes need a new lease on life.
