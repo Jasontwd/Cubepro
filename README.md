@@ -54,3 +54,7 @@ Retrofitted electrics, Open Source main board with Raspberry Pi4 to complement t
 - 5v PSU power supply on board for Rpi 4 (dedicated supply)
 - Cube pro enclosure, insulated and isolated from electrics for heating enclosure internal for better fusion on prints.
 - PEKK, PEEK and Carbon reinforced print ready
+-------------------------------------------------------------------------------------------------------------------
+## Water cooling
+![image](https://github.com/Jasontwd/Cubepro/blob/master/Images/Clipped_image_20230923_125211.png?raw=true)
+
