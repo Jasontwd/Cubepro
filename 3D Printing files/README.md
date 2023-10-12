@@ -8,4 +8,4 @@ Instructions:
 - Use the LCD screen from this address or Jaycar has the 7" touchscreens in stock
 - https://www.jaycar.co.nz/1024x600-hdmi-7in-screen-with-usb-capacitive-touch/p/XC9026
 - Buy a short HDMI cable and USB cable to run from the Rpi ( Klipper) to the screen in back plate
--
+- Print out the left fan and mirror the right fan in the slicer
