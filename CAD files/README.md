@@ -1,4 +1,4 @@
-##CAD files
+-CAD files
 
-##STL files
+-STL files
 
