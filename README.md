@@ -32,8 +32,6 @@ I found my printer on Trade Me in mid 2019, after a mate had also bought 2.
 
 Cube Pro Duo Mosquito Liquid, water cooled high volume printer
 
-![image](https://github.com/Jasontwd/Cubepro/assets/25860987/7f7647c8-4586-4db8-8166-2827825f5e42)
-
 ![image](https://github.com/Jasontwd/Cubepro/blob/master/Images/20230923_162437.jpg?raw=true)
 
 Retrofitted electrics, Open Source main board with Raspberry Pi4 to complement the existing drive train on board the Cube Pro
